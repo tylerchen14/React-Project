@@ -40,7 +40,7 @@ function ToDoList() {
 
   return (
     <div className='to-do-list'>
-      <h1>To Do List</h1>
+      <h1>每天記事本</h1>
       <div>
         <input
           type='text'
